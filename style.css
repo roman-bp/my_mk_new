@@ -1,0 +1,50 @@
+
+a{
+   text-decoration: none;
+   color: #0c0c0c;
+}
+a:hover{
+    color: aqua;
+}
+.container{
+    width: 350px;
+    margin: 0 auto;
+}
+
+.wrapMission{
+    display: block;
+    max-width: 350px;
+    margin-left:  auto;
+    margin-right: auto;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+.is-closed{
+   
+    border: 5px aqua solid;
+}
+.is-open{
+   
+    border: 5px black solid;
+}
+.numberMission{
+    background-color: #e00c0c;
+    border-radius: 25px 50%;
+    font-size: 25px;
+    color: #f0e6e6;
+
+}
+ .mainWrap{
+    display: block;
+       margin: 0 auto;
+   max-width: 300px;
+    padding: 45px;
+}
+
+
+
+ .nameField{
+    display: inline-block;
+    background-color: #fff;
+}

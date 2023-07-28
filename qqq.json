@@ -1,0 +1,49 @@
+ /* {
+		"id": 2,
+		"town": "Бровары",
+		"street": "Незалежності",
+		"house": 15,
+		"flat": 200,
+		"floor": 6
+	},
+	{
+		"id": 3,
+		"town": "Бровары",
+		"street": "Незалежності",
+		"house": 15,
+		"flat": 200,
+		"floor": 6
+	},
+	{
+		"id": 4,
+		"town": "Бровары",
+		"street": "Незалежності",
+		"house": 15,
+		"flat": 200,
+		"floor": 6
+	},
+	{
+		"id": 5,
+		"town": "Бровары",
+		"street": "Незалежності",
+		"house": 15,
+		"flat": 200,
+		"floor": 6
+	}
+*/
+
+// <button><a href=”tel:+380675099283”>Позвонить</a></button>
+
+
+{
+    "id": 2,
+    "town": "Бровары",
+    "street": "Незалежності",
+    "house": 15,
+    "flat": 203,
+    "floor": 7,
+    "phone": "+380962351504"
+}
+<svg class="contacts__icon contacts__icon--thin">
+        <use href="/svg/symbol-defs.svg#icon-phone"></use>
+    </svg>
